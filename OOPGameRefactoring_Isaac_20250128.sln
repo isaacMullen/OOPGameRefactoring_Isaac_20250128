@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPGameRefactoring_Isaac_20250128", "OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128.csproj", "{C09A899F-279B-471A-AFC8-6DC996F96905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09A899F-279B-471A-AFC8-6DC996F96905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09A899F-279B-471A-AFC8-6DC996F96905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09A899F-279B-471A-AFC8-6DC996F96905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09A899F-279B-471A-AFC8-6DC996F96905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ECA7AB0-13BB-48C9-ADC4-B5313FDA7189}
+	EndGlobalSection
+EndGlobal
