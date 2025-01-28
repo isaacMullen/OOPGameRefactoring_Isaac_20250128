@@ -19,9 +19,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 
         private List<Card> deck = new List<Card>();
         private List<Card> hand = new List<Card>();
-
-        private List<Card> cards = new List<Card>();
-
+       
         public bool FireBuff
         {
             get { return fireBuff; }

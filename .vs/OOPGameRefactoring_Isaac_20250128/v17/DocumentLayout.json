@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\fireballcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\fireballcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|e:\\class\\class projects\\non-unity\\in progress\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\powerupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\powerupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|e:\\class\\class projects\\non-unity\\in progress\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "PowerUpCard.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:34:15.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T19:34:15.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ToDo.txt",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
@@ -110,33 +109,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
               "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T14:29:22.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IceShieldCard.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
               "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T14:10:08.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HealCard.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
@@ -144,25 +143,24 @@
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T13:54:24.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T13:54:24.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Character.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:37:51.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Card.cs",
@@ -183,8 +181,7 @@
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:25:07.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T12:25:07.866Z"
             }
           ]
         }
