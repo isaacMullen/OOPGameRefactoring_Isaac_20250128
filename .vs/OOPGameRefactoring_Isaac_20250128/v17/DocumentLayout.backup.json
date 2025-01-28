@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|c:\\isaac\u0027s code\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|c:\\isaac\u0027s code\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|c:\\isaac\u0027s code\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|c:\\isaac\u0027s code\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
               "ToolTip": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T14:29:22.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IceShieldCard.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HealCard.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
@@ -85,20 +85,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "ToolTip": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:37:51.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Card.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FireballCard.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Isaac\u0027s code\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Program.cs",

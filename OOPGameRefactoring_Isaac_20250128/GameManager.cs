@@ -12,7 +12,11 @@ namespace OOPGameRefactoring_Isaac_20250128
 
         public void NextTurn()
         {
-            isPlayerTurn = !isPlayerTurn;
+            Console.WriteLine("Switching turns...");
+            if (isPlayerTurn)
+            {
+                isPlayerTurn = !isPlayerTurn;
+            }                        
         }
 
         public void PlayerTurn()
@@ -27,7 +31,12 @@ namespace OOPGameRefactoring_Isaac_20250128
 
         public void SetUpGame()
         {
+            Console.WriteLine("Setting up game");
+        }
 
+        public void StartGame()
+        {
+            Console.WriteLine("Starting Game");
         }
 
         public bool CheckVictory(Character player, Character enemy)
