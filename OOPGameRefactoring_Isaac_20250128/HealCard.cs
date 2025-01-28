@@ -8,8 +8,8 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class HealCard : Card
     {
-        int healAmount = 30;
-        int manaCost = 20;
+        int healAmount = 40;
+        int manaCost = 40;
         string name = "Heal";
 
         public override void Play(Character target)

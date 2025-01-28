@@ -6,7 +6,34 @@ using System.Threading.Tasks;
 
 namespace OOPGameRefactoring_Isaac_20250128
 {
-    internal class PowerUpCard
-    {
+    internal class PowerUpCard : Card
+    {        
+        int manaCost = 30;
+        string name = "Fire Buff";
+
+        public override void Play(Character target)
+        {
+            target.FireBuff = true;
+            Console.WriteLine($"{target.Name} has been granted Fire Buff for 2 turns!");
+        }        
+
+        public override int ManaCost
+        {
+            get { return manaCost; }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException("Cost can't be negative");
+                }
+                manaCost = value;
+            }
+        }
+        public override string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
     }
 }
+

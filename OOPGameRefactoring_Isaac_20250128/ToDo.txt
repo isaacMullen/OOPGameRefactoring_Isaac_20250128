@@ -1,0 +1,18 @@
+Draw a card at the beginning of your turn if you are below 5 cards
+
+Allow player to cast a specified card in their hand
+
+Add A Method to display stats (Mana, Health, Shields)
+
+
+
+
+
+
+FINISHED-------------------------------------------------------------------------
+
+Finish setting up the rest of the cards.
+
+Randomly add 60 cards into each Characters deck in SetupGame
+
+Add 5 Random cards to each hand.

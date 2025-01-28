@@ -5,3 +5,10 @@ C:\Isaac's code\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250
 C:\Isaac's code\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.csproj.CoreCompileInputs.cache
 C:\Isaac's code\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.exe
 C:\Isaac's code\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.pdb
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\bin\Debug\OOPGameRefactoring_Isaac_20250128.exe.config
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\bin\Debug\OOPGameRefactoring_Isaac_20250128.exe
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\bin\Debug\OOPGameRefactoring_Isaac_20250128.pdb
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.csproj.AssemblyReference.cache
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.csproj.CoreCompileInputs.cache
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.exe
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\OOPGameRefactoring_Isaac_20250128\OOPGameRefactoring_Isaac_20250128\obj\Debug\OOPGameRefactoring_Isaac_20250128.pdb
