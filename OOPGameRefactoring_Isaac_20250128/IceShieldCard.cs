@@ -12,10 +12,19 @@ namespace OOPGameRefactoring_Isaac_20250128
         int manaCost = 20;
         string name = "Ice Shield";
 
-        public override void Play(Character target)
+        public override void Play(Character target, Character caster)
         {
-            target.IceShield = true;
-            Console.WriteLine($"Gained {shieldMod} shield and Ice Shield");
+            if (caster.Mana >= manaCost)
+            {
+                caster.IceShield = true;
+                caster.Shields += 30;
+                caster.Mana -= manaCost;
+                Console.WriteLine($"{caster.Name} Gained {shieldMod} shield and Ice Armor Status (fire resist)");
+            }
+            else
+            {
+                Console.WriteLine($"Not Enough Mana!\nYour Mana: {caster.Mana} | Mana Required: {manaCost}");
+            }
         }        
 
         public override int ManaCost

@@ -8,7 +8,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class Program
     {                                
-        static void Main(string[] args)
+        static void Main()
         {
             GameManager gameManager = new GameManager();
 

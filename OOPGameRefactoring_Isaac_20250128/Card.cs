@@ -8,7 +8,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     abstract class Card
     {                
-        public abstract void Play(Character target);
+        public abstract void Play(Character target, Character caster);
 
         public int count = 1;
 

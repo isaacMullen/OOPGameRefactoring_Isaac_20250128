@@ -1,4 +1,6 @@
-Draw a card at the beginning of your turn if you are below 5 cards
+BUG TEST THE SHIELD OVERFLOW WITH HEALTH
+
+card that was casted gets removed from the casters hand
 
 Allow player to cast a specified card in their hand
 
@@ -16,3 +18,5 @@ Finish setting up the rest of the cards.
 Randomly add 60 cards into each Characters deck in SetupGame
 
 Add 5 Random cards to each hand.
+
+Draw a card at the beginning of your turn if you are below 5 cards

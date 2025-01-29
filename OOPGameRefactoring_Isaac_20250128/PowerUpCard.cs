@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace OOPGameRefactoring_Isaac_20250128
 {
@@ -11,10 +12,19 @@ namespace OOPGameRefactoring_Isaac_20250128
         int manaCost = 30;
         string name = "Fire Buff";
 
-        public override void Play(Character target)
+        public override void Play(Character target, Character caster)
         {
-            target.FireBuff = true;
-            Console.WriteLine($"{target.Name} has been granted Fire Buff for 2 turns!");
+            if (caster.Mana >= manaCost)
+            {
+                caster.FireBuff = true;
+                caster.Mana -= manaCost;
+                Console.WriteLine($"{caster.Name} has been granted Fire Buff for 2 turns!");
+            }
+            else
+            {
+                Console.WriteLine($"Not Enough Mana!\nYour Mana: {caster.Mana} | Mana Required: {manaCost}");
+            }
+            
         }        
 
         public override int ManaCost

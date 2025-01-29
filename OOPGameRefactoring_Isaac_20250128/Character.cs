@@ -12,6 +12,8 @@ namespace OOPGameRefactoring_Isaac_20250128
 
         private string name;
         private int health;
+        private int shields;
+        private int mana;
         public bool IsAlive => health > 0;
 
         private bool fireBuff;
@@ -42,10 +44,12 @@ namespace OOPGameRefactoring_Isaac_20250128
             get { return hand; }
         }
 
-        public Character(string name, int health)
+        public Character(string name, int health, int mana, int shields = 0)
         {
             Name = name;
             Health = health;
+            Mana = mana;
+            Shields = shields;
         }
 
         public string Name
@@ -60,6 +64,18 @@ namespace OOPGameRefactoring_Isaac_20250128
             set { health = value < 0 ? 0: value; } // Ensures positive value
         }
 
+        public int Mana
+        {
+            get { return mana; }
+            set { mana = value < 0 ? 0 : value; } // Ensures positive value
+        }
+
+        public int Shields
+        {
+            get { return shields; }
+            set { shields = value < 0 ? 0 : value; } // Ensures positive value
+        }
+
         public void AddCardToDeck(Card card)
         {
             deck.Add(card);
@@ -69,7 +85,7 @@ namespace OOPGameRefactoring_Isaac_20250128
         {
             if (hand.Count >= handSize)
             {
-                Console.WriteLine($"Cannot draw card, Hand is full.");
+                Console.WriteLine($"Hand is full.");
                 return;
             }
             hand.Add(card);
@@ -90,5 +106,10 @@ namespace OOPGameRefactoring_Isaac_20250128
                 Console.WriteLine($"{group.CardName}: {group.Count}");
             }
         }
+
+        public void DisplayStats()
+        {
+            Console.WriteLine($"{Name} Health: {Health} | Mana: {Mana} | Shields: {shields}");
+        }        
     }
 }

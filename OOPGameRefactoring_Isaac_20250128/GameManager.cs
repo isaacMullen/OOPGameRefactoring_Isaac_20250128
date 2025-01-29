@@ -30,8 +30,15 @@ namespace OOPGameRefactoring_Isaac_20250128
         private void PlayerTurn()
         {                        
             Console.WriteLine($"-------Player Turn-------");
-                        
+            //will auto draw each turn if the current amount of cards in hand is less than 5
+            player.AddCardToHand(player.Deck[random.Next(player.Deck.Count)]);
+            
+            player.DisplayStats();
+
             player.DisplayHand();
+
+            //playing a random card from player's hand
+            player.Hand[random.Next(player.Hand.Count)].Play(enemy, player);
 
             Console.ReadKey();
             currentGameState = GameState.EnemyTurn;
@@ -41,9 +48,16 @@ namespace OOPGameRefactoring_Isaac_20250128
         private void EnemyTurn()
         {
             Console.WriteLine("-------Enemy Turn-------");
-            
+            //will auto draw each turn if the current amount of cards in hand is less than 5
+            enemy.AddCardToHand(enemy.Deck[random.Next(player.Deck.Count)]);
+
+            enemy.DisplayStats();
+
             enemy.DisplayHand();
-            
+
+            //playing a random card from enemy's hand
+            enemy.Hand[random.Next(player.Hand.Count)].Play(player, enemy);
+
             Console.ReadKey();
             currentGameState = GameState.PlayerTurn;
             Console.WriteLine();
@@ -53,8 +67,8 @@ namespace OOPGameRefactoring_Isaac_20250128
         {
             Console.WriteLine("Setting up game");
             
-            player = new Character("Player", 100);
-            enemy = new Character("Enemy", 100);
+            player = new Character("Player", 100, 10000);
+            enemy = new Character("Enemy", 100, 10000);
 
             //populating player deck
             for (int i = 0; i < 60; i++)
@@ -94,8 +108,9 @@ namespace OOPGameRefactoring_Isaac_20250128
         {
             SetUpGame();
 
-            while (currentGameState != GameState.GameOver && player.Deck.Count > 0 )
-            {                
+            while (currentGameState != GameState.GameOver && player.Deck.Count > 0 && player.Hand.Count > 0)
+            {
+                CheckVictory(player, enemy);
                 switch (currentGameState)
                 {
                     case GameState.PlayerTurn:

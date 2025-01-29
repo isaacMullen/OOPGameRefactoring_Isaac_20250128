@@ -12,10 +12,19 @@ namespace OOPGameRefactoring_Isaac_20250128
         int manaCost = 40;
         string name = "Heal";
 
-        public override void Play(Character target)
+        public override void Play(Character target, Character caster)
         {
-            target.Health += healAmount;
-            Console.WriteLine($"Healed {target.Name} for {healAmount} HP");            
+            if (caster.Mana >= manaCost)
+            {
+                caster.Health += healAmount;
+                caster.Mana -= manaCost;
+                Console.WriteLine($"{caster.Name} healed for {healAmount} HP");
+            }
+            else
+            {
+                Console.WriteLine($"Not Enough Mana!\nYour Mana: {caster.Mana} | Mana Required: {manaCost}");
+            }
+                       
         }
 
         public override int HealAmount

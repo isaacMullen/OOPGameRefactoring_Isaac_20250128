@@ -12,10 +12,44 @@ namespace OOPGameRefactoring_Isaac_20250128
         int manaCost = 20;
         string name = "Slash";
 
-        public override void Play(Character target)
+        public override void Play(Character target, Character caster)
         {
-            target.Health -= damage;
-            Console.WriteLine($"Dealt {damage} damage to {target.Name}");
+            if (caster.Mana >= manaCost)
+            {
+                int remainingDamage = damage; //keeping track of damage for overflow onto shield
+
+                if (target.Shields > 0)
+                {
+                    if (target.Shields >= remainingDamage)
+                    {
+                        //shield absorbs all damage
+                        target.Shields -= remainingDamage;
+                        remainingDamage = 0;
+                    }
+                    else
+                    {
+                        //adjusting the remainingDamage to be applied to health after shields are checked
+                        remainingDamage -= target.Shields;
+                        target.Shields = 0;
+                    }
+                }
+
+                //applying overflow damage to health
+                target.Health -= remainingDamage;
+
+                caster.Mana -= manaCost;
+
+                Console.WriteLine($"{caster.Name} dealt {damage} damage to {target.Name} with {name}.");
+                if (target.Shields <= 0 && remainingDamage <= 0)
+                {
+                    Console.WriteLine($"{caster.Name} broke the {target.Name}'s shield!");
+                }
+            }
+            //out of mana message
+            else
+            {
+                Console.WriteLine($"{caster.Name} does not have enough mana to use {name}.");
+            }
         }
 
         public override int Damage
