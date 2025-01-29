@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\",
+  "WorkspaceRootPath": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\SlashCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\SlashCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\ToDo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\slashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\slashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\FireballCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\iceshieldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\powerupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\powerupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\fireballcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\fireballcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\HealCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|e:\\class\\class projects\\non-unity\\in progress\\oopgamerefactoring_isaac_20250128\\oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09A899F-279B-471A-AFC8-6DC996F96905}|OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128.csproj|solutionrelative:oopgamerefactoring_isaac_20250128\\healcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPGameRefactoring_Isaac_20250128\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,32 +50,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PowerUpCard.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\PowerUpCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T19:35:11.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SlashCard.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\SlashCard.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,107 +88,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ToDo.txt",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\ToDo.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-01-28T19:32:51.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "FireballCard.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\FireballCard.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:17:09.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T14:29:22.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T19:17:09.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IceShieldCard.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
-              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
-              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
+              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
+              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\GameManager.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T14:10:08.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T14:29:22.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "IceShieldCard.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
+              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
+              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\IceShieldCard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:10:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HealCard.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\HealCard.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T13:54:24.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T13:54:24.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
+              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
+              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:37:51.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Character.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Character.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:37:51.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Card.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Card.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Card.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:35:31.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T12:35:31.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs",
+              "DocumentMoniker": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs",
               "RelativeDocumentMoniker": "OOPGameRefactoring_Isaac_20250128\\Program.cs",
-              "ToolTip": "E:\\class\\CLASS PROJECTS\\Non-Unity\\In Progress\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs",
+              "ToolTip": "C:\\Isaacs Programming Projects\\OOPGameRefactoring_Isaac_20250128\\OOPGameRefactoring_Isaac_20250128\\Program.cs",
               "RelativeToolTip": "OOPGameRefactoring_Isaac_20250128\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:25:07.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T12:25:07.866Z"
             }
           ]
         }
