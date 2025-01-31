@@ -9,6 +9,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class FireballCard : Card
     {
+        int castKey = 1;
         int damage = 30;        
         int manaCost = 20;
         string name = "Fireball";
@@ -50,10 +51,14 @@ namespace OOPGameRefactoring_Isaac_20250128
             else
             {
                 Console.WriteLine($"{caster.Name} does not have enough mana to use {name}.");
-            }
-
+            }            
         }
 
+        public int CastKey
+        {
+            get { return castKey; }
+        }
+        
         public override int Damage 
         {
             get { return damage; } 

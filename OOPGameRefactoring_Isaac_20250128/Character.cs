@@ -19,6 +19,8 @@ namespace OOPGameRefactoring_Isaac_20250128
         private bool fireBuff;
         private bool iceShield;
 
+        private int turnCounter = 0;
+
         private List<Card> deck = new List<Card>();
         private List<Card> hand = new List<Card>();
        
@@ -61,19 +63,19 @@ namespace OOPGameRefactoring_Isaac_20250128
         public int Health
         {
             get { return health; }
-            set { health = value < 0 ? 0: value; } // Ensures positive value
+            set { health = (value < 0) ? 0 : (value > 100) ? 100 : value; }
         }
 
         public int Mana
         {
             get { return mana; }
-            set { mana = value < 0 ? 0 : value; } // Ensures positive value
+            set { mana = (value < 0) ? 0 : (value > 100) ? 100 : value; }
         }
 
         public int Shields
         {
             get { return shields; }
-            set { shields = value < 0 ? 0 : value; } // Ensures positive value
+            set { shields = (value < 0) ? 0 : (value > 100) ? 100 : value; }
         }
 
         public void AddCardToDeck(Card card)
@@ -88,28 +90,96 @@ namespace OOPGameRefactoring_Isaac_20250128
                 Console.WriteLine($"Hand is full.");
                 return;
             }
+            Console.WriteLine($"{this.Name} Drew a card.");
             hand.Add(card);
             card.count++;
         }  
         
-        public void DisplayHand()
+        public List<(int index, string cardName, int count)> DisplayHand()
         {
-            //Using LINQ (Language Integrated Query) to group the cards by their name and get the count of each one
-            var groupedCardsInHand = hand.GroupBy(card => card.Name).Select(group => new 
-            { 
-                CardName = group.Key,
-                Count = group.Count()
-            });
+            //Using LINQ (Language Integrated Query) to group the cards by their name and get the count of each one as well as the index in the list
+            var groupedCardsInHand = hand.GroupBy(card => card.Name).Select((group, index) => (Index: index + 1, CardName: group.Key, Count: group.Count())).ToList();
             
             foreach (var group in groupedCardsInHand)
             {
-                Console.WriteLine($"{group.CardName}: {group.Count}");
+                Console.WriteLine($"{group.Index}. {group.CardName}: {group.Count}");
             }
+
+            return groupedCardsInHand;
         }
 
         public void DisplayStats()
         {
             Console.WriteLine($"{Name} Health: {Health} | Mana: {Mana} | Shields: {shields}");
+        }
+        
+        public void ShuffleDeck(Card[] cards)
+        {
+            Random random = new Random();
+            //populating player deck
+            for (int i = 0; i < 60; i++)
+            {
+                int index = random.Next(cards.Length);
+                AddCardToDeck(cards[index]);
+            }            
+        }
+
+        public void DrawInitialHand(List<Card> cards)
+        {
+            Random random = new Random();
+            //populating player deck
+            for (int i = 0; i < 5; i++)
+            {
+                int index = random.Next(cards.Count);
+                AddCardToHand(cards[index]);
+            }
+        }
+
+        public void FireBuffTracker()
+        {
+            if (FireBuff == true)
+            {
+                turnCounter += 1;
+                if (turnCounter % 2 == 0)
+                {
+                    turnCounter = 0;
+                    FireBuff = false;
+                    Console.WriteLine($"Fire Buff Turned Off");
+                }
+            }            
+        }
+
+        public void PlayACard(Character player, Character target)
+        {
+            var cards = DisplayHand();
+
+            Console.WriteLine($"Choose a card to play (1, 2, 3...)");
+
+            if (int.TryParse(Console.ReadLine(), out int choice))
+            {
+                var selectedCard = cards.FirstOrDefault(card => card.index == choice);
+
+                if (selectedCard.cardName != null)
+                {
+                    var cardToPlay = hand.FirstOrDefault(card => card.Name == selectedCard.cardName);
+
+                    if (cardToPlay != null)
+                    {
+                        hand.Remove(cardToPlay);
+                        cardToPlay.Play(target, player);                        
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Choice");
+
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid Input");
+
+            }
         }        
     }
 }

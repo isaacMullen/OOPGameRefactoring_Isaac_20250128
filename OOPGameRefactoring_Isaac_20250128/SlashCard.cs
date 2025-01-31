@@ -8,6 +8,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class SlashCard : Card
     {
+        int castKey = 3;
         int damage = 20;
         int manaCost = 20;
         string name = "Slash";

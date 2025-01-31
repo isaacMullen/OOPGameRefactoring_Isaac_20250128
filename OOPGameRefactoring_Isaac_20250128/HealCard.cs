@@ -8,6 +8,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class HealCard : Card
     {
+        int castKey = 5;
         int healAmount = 40;
         int manaCost = 40;
         string name = "Heal";

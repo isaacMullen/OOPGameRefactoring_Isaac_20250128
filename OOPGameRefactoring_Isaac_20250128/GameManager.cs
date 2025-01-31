@@ -32,13 +32,13 @@ namespace OOPGameRefactoring_Isaac_20250128
             Console.WriteLine($"-------Player Turn-------");
             //will auto draw each turn if the current amount of cards in hand is less than 5
             player.AddCardToHand(player.Deck[random.Next(player.Deck.Count)]);
-            
-            player.DisplayStats();
 
-            player.DisplayHand();
+            player.FireBuffTracker();
+
+            player.DisplayStats();            
 
             //playing a random card from player's hand
-            player.Hand[random.Next(player.Hand.Count)].Play(enemy, player);
+            player.PlayACard(player, enemy);
 
             Console.ReadKey();
             currentGameState = GameState.EnemyTurn;
@@ -70,35 +70,11 @@ namespace OOPGameRefactoring_Isaac_20250128
             player = new Character("Player", 100, 10000);
             enemy = new Character("Enemy", 100, 10000);
 
-            //populating player deck
-            for (int i = 0; i < 60; i++)
-            {
-                int index = random.Next(cards.Length);
-                player.AddCardToDeck(cards[index]);
-            }
+            player.ShuffleDeck(cards);
+            enemy.ShuffleDeck(cards);
 
-            //populating enemy deck
-            for (int i = 0; i < 60; i++)
-            {
-                int index = random.Next(cards.Length);
-                enemy.AddCardToDeck(cards[index]);
-            }
-
-            //player draws 5 cards
-            for(int i = 0;i < 5; i++)
-            {
-                int index = random.Next(player.Deck.Count);
-                player.AddCardToHand(player.Deck[index]);
-                player.Deck.RemoveAt(index);
-            }
-
-            //enemy draws 5 cards
-            for (int i = 0; i < 5; i++)
-            {
-                int index = random.Next(enemy.Deck.Count);
-                enemy.AddCardToHand(enemy.Deck[index]);
-                enemy.Deck.RemoveAt(index);
-            }
+            player.DrawInitialHand(player.Deck);
+            enemy.DrawInitialHand(enemy.Deck);
 
             Console.ReadKey();
             currentGameState = GameState.PlayerTurn;

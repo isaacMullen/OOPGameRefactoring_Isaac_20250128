@@ -8,6 +8,7 @@ namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class IceShieldCard : Card 
     {
+        int castKey = 4;
         int shieldMod = 30;
         int manaCost = 20;
         string name = "Ice Shield";

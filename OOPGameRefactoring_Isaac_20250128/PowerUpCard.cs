@@ -8,7 +8,8 @@ using static System.Net.Mime.MediaTypeNames;
 namespace OOPGameRefactoring_Isaac_20250128
 {
     internal class PowerUpCard : Card
-    {        
+    {
+        int castKey = 2;
         int manaCost = 30;
         string name = "Fire Buff";
 
